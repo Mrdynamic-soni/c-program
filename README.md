@@ -1,2 +1,2 @@
 # c-program
-hackerank student marks sum program
+here are some hackerank c programs
